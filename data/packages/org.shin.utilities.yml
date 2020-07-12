@@ -1,6 +1,6 @@
 name: org.shin.utilities
 displayName: Shin Utilities
-description: "Shin Utilities"
+description: "Various Unity utilities"
 repoUrl: 'https://github.com/sindharta/unity_utilities'
 parentRepoUrl: null
 licenseSpdxId: Apache-2.0
